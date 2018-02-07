@@ -133,3 +133,42 @@
 [submodule "Command_and_control/Cobalt_strike/Aggressor/persistence-aggressor-script"]
 	path = Command_and_control/Cobalt_strike/Aggressor/persistence-aggressor-script
 	url = https://github.com/ZonkSec/persistence-aggressor-script.git
+[submodule "Command_and_control/Empire"]
+	path = Command_and_control/Empire
+	url = https://github.com/EmpireProject/Empire.git
+[submodule "Lateral_movement/mimikatz"]
+	path = Lateral_movement/mimikatz
+	url = https://github.com/gentilkiwi/mimikatz.git
+[submodule "Command_and_control/trevorc2"]
+	path = Command_and_control/trevorc2
+	url = https://github.com/trustedsec/trevorc2.git
+[submodule "Establish_foothold/UACME"]
+	path = Establish_foothold/UACME
+	url = https://github.com/darkoperator/UACME.git
+[submodule "Establish_foothold/PowerLurk"]
+	path = Establish_foothold/PowerLurk
+	url = https://github.com/Sw4mpf0x/PowerLurk.git
+[submodule "Lateral_movement/KeeThief"]
+	path = Lateral_movement/KeeThief
+	url = https://github.com/HarmJ0y/KeeThief.git
+[submodule "Initial_access/subjack"]
+	path = Initial_access/subjack
+	url = https://github.com/haccer/subjack.git
+[submodule "Initial_access/Phishing/gophish"]
+	path = Initial_access/Phishing/gophish
+	url = https://github.com/gophish/gophish.git
+[submodule "Initial_access/Phishing/social-engineer-toolkit"]
+	path = Initial_access/Phishing/social-engineer-toolkit
+	url = https://github.com/trustedsec/social-engineer-toolkit.git
+[submodule "Initial_access/Phishing/FiercePhish"]
+	path = Initial_access/Phishing/FiercePhish
+	url = https://github.com/Raikia/FiercePhish.git
+[submodule "References/SadProcessorCheats"]
+	path = References/SadProcessorCheats
+	url = https://github.com/SadProcessor/Cheats.git
+[submodule "Lateral_movement/red-team-scripts"]
+	path = Lateral_movement/red-team-scripts
+	url = https://github.com/threatexpress/red-team-scripts.git
+[submodule "Lateral_movement/mimikittenz"]
+	path = Lateral_movement/mimikittenz
+	url = https://github.com/putterpanda/mimikittenz.git
