@@ -223,3 +223,6 @@
 [submodule "Lateral_movement/Invoke-PSImage"]
 	path = Lateral_movement/Invoke-PSImage
 	url = https://github.com/peewpw/Invoke-PSImage.git
+[submodule "Initial_access/Phishing/ReelPhish"]
+	path = Initial_access/Phishing/ReelPhish
+	url = https://github.com/fireeye/ReelPhish.git
