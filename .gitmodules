@@ -172,3 +172,27 @@
 [submodule "Lateral_movement/mimikittenz"]
 	path = Lateral_movement/mimikittenz
 	url = https://github.com/putterpanda/mimikittenz.git
+[submodule "Reconnaissance/Technology/GitLoot"]
+	path = Reconnaissance/Technology/GitLoot
+	url = https://github.com/0xdade/GitLoot.git
+[submodule "Initial_access/Payload_generation/macro_pack"]
+	path = Initial_access/Payload_generation/macro_pack
+	url = https://github.com/sevagas/macro_pack.git
+[submodule "Initial_access/Payload_generation/CheckPlease"]
+	path = Initial_access/Payload_generation/CheckPlease
+	url = https://github.com/Arvanaghi/CheckPlease.git
+[submodule "Staging/CatMyFish"]
+	path = Staging/CatMyFish
+	url = https://github.com/Mr-Un1k0d3r/CatMyFish.git
+[submodule "Initial_access/Payload_generation/DKMC"]
+	path = Initial_access/Payload_generation/DKMC
+	url = https://github.com/Mr-Un1k0d3r/DKMC
+[submodule "Lateral_movement/RedTeamPowershellScripts"]
+	path = Lateral_movement/RedTeamPowershellScripts
+	url = https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts.git
+[submodule "Lateral_movement/SCT-obfuscator"]
+	path = Lateral_movement/SCT-obfuscator
+	url = https://github.com/Mr-Un1k0d3r/SCT-obfuscator.git
+[submodule "Lateral_movement/PowerLessShell"]
+	path = Lateral_movement/PowerLessShell
+	url = https://github.com/Mr-Un1k0d3r/PowerLessShell.git
