@@ -1,2 +1,2 @@
 # redteam_toolkit
-Collection of tools that aid in red team operations
+A collection of tools that aid in red team operations
