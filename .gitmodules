@@ -226,3 +226,9 @@
 [submodule "Initial_access/Phishing/ReelPhish"]
 	path = Initial_access/Phishing/ReelPhish
 	url = https://github.com/fireeye/ReelPhish.git
+[submodule "Command_and_control/c2"]
+	path = Command_and_control/c2
+	url = https://github.com/averagesecurityguy/c2.git
+[submodule "Staging/Red-Team-Infrastructure-Wiki"]
+	path = Staging/Red-Team-Infrastructure-Wiki
+	url = https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki.git
