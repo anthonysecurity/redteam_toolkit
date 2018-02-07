@@ -1,0 +1,42 @@
+[submodule "References/Awesome-Red-Teaming"]
+	path = References/Awesome-Red-Teaming
+	url = https://github.com/quikilr/Awesome-Red-Teaming.git
+[submodule "Labs/AutomatedLab"]
+	path = Labs/AutomatedLab
+	url = https://github.com/quikilr/AutomatedLab.git
+[submodule "Labs/DetectionLab"]
+	path = Labs/DetectionLab
+	url = https://github.com/clong/DetectionLab.git
+[submodule "Initial_access/Payload_generation/demiguise"]
+	path = Initial_access/Payload_generation/demiguise
+	url = https://github.com/nccgroup/demiguise.git
+[submodule "Initial_access/Payload_generation/EmbedInHTML"]
+	path = Initial_access/Payload_generation/EmbedInHTML
+	url = https://github.com/Arno0x/EmbedInHTML.git
+[submodule "Initial_access/Payload_generation/CACTUSTORCH"]
+	path = Initial_access/Payload_generation/CACTUSTORCH
+	url = https://github.com/mdsecactivebreach/CACTUSTORCH.git
+[submodule "Initial_access/Payload_generation/morphHTA"]
+	path = Initial_access/Payload_generation/morphHTA
+	url = https://github.com/mdsecactivebreach/morphHTA.git
+[submodule "Initial_access/Payload_generation/genHTA"]
+	path = Initial_access/Payload_generation/genHTA
+	url = https://github.com/mdsecactivebreach/genHTA.git
+[submodule "Reconnaissance/People/LinkedInt"]
+	path = Reconnaissance/People/LinkedInt
+	url = https://github.com/mdsecactivebreach/LinkedInt.git
+[submodule "Initial_access/Federated_services/LyncSniper"]
+	path = Initial_access/Federated_services/LyncSniper
+	url = https://github.com/mdsecactivebreach/LyncSniper.git
+[submodule "Initial_access/Federated_services/ruler"]
+	path = Initial_access/Federated_services/ruler
+	url = https://github.com/sensepost/ruler.git
+[submodule "Initial_access/Federated_services/MailSniper"]
+	path = Initial_access/Federated_services/MailSniper
+	url = https://github.com/dafthack/MailSniper.git
+[submodule "Initial_access/Targeting/EmailAddressMangler"]
+	path = Initial_access/Targeting/EmailAddressMangler
+	url = https://github.com/dafthack/EmailAddressMangler.git
+[submodule "Initial_access/Targeting/statistically-likely-usernames"]
+	path = Initial_access/Targeting/statistically-likely-usernames
+	url = https://github.com/insidetrust/statistically-likely-usernames.git
