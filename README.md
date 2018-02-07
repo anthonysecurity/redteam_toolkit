@@ -3,6 +3,7 @@
 A collection of tools that aid in red team operations.
 
 Use 
-git clone --recurse-submodules
-git submodule init
-git submodule update
+
+git clone --recursive
+
+git submodule update --init --recursive

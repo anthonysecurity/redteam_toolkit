@@ -40,3 +40,96 @@
 [submodule "Initial_access/Targeting/statistically-likely-usernames"]
 	path = Initial_access/Targeting/statistically-likely-usernames
 	url = https://github.com/insidetrust/statistically-likely-usernames.git
+[submodule "Initial_access/Payload_generation/GreatSCT"]
+	path = Initial_access/Payload_generation/GreatSCT
+	url = https://github.com/GreatSCT/GreatSCT.git
+[submodule "Initial_access/Payload_generation/Office-DDE-Payloads"]
+	path = Initial_access/Payload_generation/Office-DDE-Payloads
+	url = https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads.git
+[submodule "Initial_access/Payload_generation/unicorn"]
+	path = Initial_access/Payload_generation/unicorn
+	url = https://github.com/trustedsec/unicorn.git
+[submodule "Staging/Chameleon"]
+	path = Staging/Chameleon
+	url = https://github.com/mdsecactivebreach/Chameleon.git
+[submodule "Staging/domainhunter"]
+	path = Staging/domainhunter
+	url = https://github.com/threatexpress/domainhunter.git
+[submodule "Staging/FindFrontableDomains"]
+	path = Staging/FindFrontableDomains
+	url = https://github.com/rvrsh3ll/FindFrontableDomains.git
+[submodule "References/CheatSheets"]
+	path = References/CheatSheets
+	url = https://github.com/HarmJ0y/CheatSheets.git
+[submodule "Lateral_movement/PowerSploit"]
+	path = Lateral_movement/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit/
+[submodule "Lateral_movement/BloodHound"]
+	path = Lateral_movement/BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound.git
+[submodule "Lateral_movement/Inveigh"]
+	path = Lateral_movement/Inveigh
+	url = https://github.com/Kevin-Robertson/Inveigh.git
+[submodule "Lateral_movement/nishang"]
+	path = Lateral_movement/nishang
+	url = https://github.com/samratashok/nishang.git
+[submodule "Lateral_movement/PowerUpSQL"]
+	path = Lateral_movement/PowerUpSQL
+	url = https://github.com/NetSPI/PowerUpSQL.git
+[submodule "Lateral_movement/SessionGopher"]
+	path = Lateral_movement/SessionGopher
+	url = https://github.com/fireeye/SessionGopher.git
+[submodule "Lateral_movement/Misc-PowerShell-Stuff"]
+	path = Lateral_movement/Misc-PowerShell-Stuff
+	url = https://github.com/enigma0x3/Misc-PowerShell-Stuff.git
+[submodule "Initial_access/subTee-gits-backups"]
+	path = Initial_access/subTee-gits-backups
+	url = https://github.com/re4lity/subTee-gits-backups.git
+[submodule "Reconnaissance/People/raven"]
+	path = Reconnaissance/People/raven
+	url = https://github.com/0x09AL/raven.git
+[submodule "Reconnaissance/People/PyHunter"]
+	path = Reconnaissance/People/PyHunter
+	url = https://github.com/VonStruddle/PyHunter.git
+[submodule "Reconnaissance/Technology/DNS/Anubis"]
+	path = Reconnaissance/Technology/DNS/Anubis
+	url = https://github.com/jonluca/Anubis.git
+[submodule "Reconnaissance/Technology/DNS/blacksheepwall"]
+	path = Reconnaissance/Technology/DNS/blacksheepwall
+	url = https://github.com/tomsteele/blacksheepwall.git
+[submodule "Reconnaissance/Technology/DNS/dnscan"]
+	path = Reconnaissance/Technology/DNS/dnscan
+	url = https://github.com/rbsec/dnscan.git
+[submodule "Reconnaissance/Technology/DNS/Sublist3r"]
+	path = Reconnaissance/Technology/DNS/Sublist3r
+	url = https://github.com/aboul3la/Sublist3r.git
+[submodule "Initial_access/Payload_generation/Invoke-CradleCrafter"]
+	path = Initial_access/Payload_generation/Invoke-CradleCrafter
+	url = https://github.com/danielbohannon/Invoke-CradleCrafter.git
+[submodule "Initial_access/Payload_generation/Invoke-Obfuscation"]
+	path = Initial_access/Payload_generation/Invoke-Obfuscation
+	url = https://github.com/danielbohannon/Invoke-Obfuscation.git
+[submodule "Command_and_control/WMImplant"]
+	path = Command_and_control/WMImplant
+	url = https://github.com/ChrisTruncer/WMImplant.git
+[submodule "Lateral_movement/WMIOps"]
+	path = Lateral_movement/WMIOps
+	url = https://github.com/ChrisTruncer/WMIOps.git
+[submodule "Initial_access/Payload_generation/Veil"]
+	path = Initial_access/Payload_generation/Veil
+	url = https://github.com/Veil-Framework/Veil.git
+[submodule "Command_and_control/Cobalt_strike/Aggressor/Aggressor-scripts"]
+	path = Command_and_control/Cobalt_strike/Aggressor/Aggressor-scripts
+	url = https://github.com/Und3rf10w/Aggressor-scripts.git
+[submodule "Command_and_control/Cobalt_strike/Aggressor/AggressorScripts"]
+	path = Command_and_control/Cobalt_strike/Aggressor/AggressorScripts
+	url = https://github.com/harleyQu1nn/AggressorScripts.git
+[submodule "Command_and_control/Cobalt_strike/Aggressor/bluescreenofjeff"]
+	path = Command_and_control/Cobalt_strike/Aggressor/bluescreenofjeff
+	url = https://github.com/bluscreenofjeff/AggressorScripts.git
+[submodule "Command_and_control/Cobalt_strike/Aggressor/invokethreatguy"]
+	path = Command_and_control/Cobalt_strike/Aggressor/invokethreatguy
+	url = https://github.com/invokethreatguy/aggressor_scripts_collection.git
+[submodule "Command_and_control/Cobalt_strike/Aggressor/persistence-aggressor-script"]
+	path = Command_and_control/Cobalt_strike/Aggressor/persistence-aggressor-script
+	url = https://github.com/ZonkSec/persistence-aggressor-script.git
