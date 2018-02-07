@@ -196,3 +196,30 @@
 [submodule "Lateral_movement/PowerLessShell"]
 	path = Lateral_movement/PowerLessShell
 	url = https://github.com/Mr-Un1k0d3r/PowerLessShell.git
+[submodule "Command_and_control/Cobalt_strike/Aggressor/ramen0x3f"]
+	path = Command_and_control/Cobalt_strike/Aggressor/ramen0x3f
+	url = https://github.com/ramen0x3f/AggressorScripts.git
+[submodule "Staging/EvilURL"]
+	path = Staging/EvilURL
+	url = https://github.com/UndeadSec/EvilURL.git
+[submodule "Reconnaissance/Technology/truffleHog"]
+	path = Reconnaissance/Technology/truffleHog
+	url = https://github.com/dxa4481/truffleHog.git
+[submodule "Command_and_control/Cobalt_strike/external_c2_framework"]
+	path = Command_and_control/Cobalt_strike/external_c2_framework
+	url = https://github.com/Und3rf10w/external_c2_framework.git
+[submodule "Command_and_control/Cobalt_strike/ExternalC2"]
+	path = Command_and_control/Cobalt_strike/ExternalC2
+	url = https://github.com/ryhanson/ExternalC2.git
+[submodule "Initial_access/Phishing/phishery"]
+	path = Initial_access/Phishing/phishery
+	url = https://github.com/ryhanson/phishery.git
+[submodule "Reconnaissance/Technology/slurp"]
+	path = Reconnaissance/Technology/slurp
+	url = https://github.com/bbb31/slurp.git
+[submodule "Command_and_control/WSC2"]
+	path = Command_and_control/WSC2
+	url = https://github.com/Arno0x/WSC2
+[submodule "Lateral_movement/Invoke-PSImage"]
+	path = Lateral_movement/Invoke-PSImage
+	url = https://github.com/peewpw/Invoke-PSImage.git
