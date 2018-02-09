@@ -235,3 +235,9 @@
 [submodule "Staging/Red-Baron"]
 	path = Staging/Red-Baron
 	url = https://github.com/Coalfire-Research/Red-Baron.git
+[submodule "Reconnaissance/Frameworks/spiderfoot"]
+	path = Reconnaissance/Frameworks/spiderfoot
+	url = https://github.com/smicallef/spiderfoot.git
+[submodule "Reconnaissance/Frameworks/recon-ng"]
+	path = Reconnaissance/Frameworks/recon-ng
+	url = https://bitbucket.org/LaNMaSteR53/recon-ng.git
