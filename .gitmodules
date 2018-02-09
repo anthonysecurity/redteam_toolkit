@@ -232,3 +232,6 @@
 [submodule "Staging/Red-Team-Infrastructure-Wiki"]
 	path = Staging/Red-Team-Infrastructure-Wiki
 	url = https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki.git
+[submodule "Staging/Red-Baron"]
+	path = Staging/Red-Baron
+	url = https://github.com/Coalfire-Research/Red-Baron.git
