@@ -250,3 +250,12 @@
 [submodule "Initial_access/Payload_generation/luckystrike"]
 	path = Initial_access/Payload_generation/luckystrike
 	url = https://github.com/curi0usJack/luckystrike.git
+[submodule "Lateral_movement/ntdsxtract"]
+	path = Lateral_movement/ntdsxtract
+	url = https://github.com/csababarta/ntdsxtract.git
+[submodule "Lateral_movement/mimipenguin"]
+	path = Lateral_movement/mimipenguin
+	url = https://github.com/ahhh/mimipenguin.git
+[submodule "Staging/catphish"]
+	path = Staging/catphish
+	url = https://github.com/ring0lab/catphish.git
