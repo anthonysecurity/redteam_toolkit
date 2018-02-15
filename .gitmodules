@@ -241,3 +241,12 @@
 [submodule "Reconnaissance/Frameworks/recon-ng"]
 	path = Reconnaissance/Frameworks/recon-ng
 	url = https://bitbucket.org/LaNMaSteR53/recon-ng.git
+[submodule "Reconnaissance/FOCA"]
+	path = Reconnaissance/FOCA
+	url = https://github.com/ElevenPaths/FOCA.git
+[submodule "Lateral_movement/3snake"]
+	path = Lateral_movement/3snake
+	url = https://github.com/blendin/3snake.git
+[submodule "Initial_access/Payload_generation/luckystrike"]
+	path = Initial_access/Payload_generation/luckystrike
+	url = https://github.com/curi0usJack/luckystrike.git
