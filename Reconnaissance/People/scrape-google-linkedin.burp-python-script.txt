@@ -1,0 +1,39 @@
+if not messageIsRequest:
+  response = messageInfo.getResponse()
+  analyzedResponse = helpers.analyzeResponse(response)
+  headerList = analyzedResponse.getHeaders()
+  bodyStr = helpers.bytesToString(response[analyzedResponse.getBodyOffset():]).encode('ascii','ignore')
+  if "| Professional Profile - LinkedIn" in bodyStr:
+    strs = bodyStr.split("| Professional Profile - LinkedIn")
+    strs.pop(-1) #remove the last item
+    for str in strs:
+      try:
+        name = (str.rsplit("x3e",1)[1]).strip()
+      except:
+        x="test"
+      try:
+        name = (str.rsplit("\">",1)[1]).strip()
+        if "=\"" in name:
+          name = str.rsplit("=\"",1)[1]
+        if "<title>" in name:
+          name = (str.rsplit("<title>",1)[1]).strip()
+      except:
+        x="test"
+      print name
+  if "| LinkedIn" in bodyStr:
+    strs = bodyStr.split("| LinkedIn")
+    strs.pop(-1) #remove the last item
+    for str in strs:
+      try:
+        name = (str.rsplit("x3e",1)[1]).strip()
+      except:
+        x="test"
+      try:
+        name = (str.rsplit("\">",1)[1]).strip()
+        if "=\"" in name:
+          name = str.rsplit("=\"",1)[1]
+        if "<title>" in name:
+          name = (str.rsplit("<title>",1)[1]).strip()
+      except:
+        x="test"
+      print name

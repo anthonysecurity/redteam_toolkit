@@ -259,3 +259,6 @@
 [submodule "Staging/catphish"]
 	path = Staging/catphish
 	url = https://github.com/ring0lab/catphish.git
+[submodule "Staging/Lazy-RedTeamer-Scripts"]
+	path = Staging/Lazy-RedTeamer-Scripts
+	url = https://github.com/yeyintminthuhtut/Lazy-RedTeamer-Scripts.git
