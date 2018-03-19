@@ -262,3 +262,9 @@
 [submodule "Staging/Lazy-RedTeamer-Scripts"]
 	path = Staging/Lazy-RedTeamer-Scripts
 	url = https://github.com/yeyintminthuhtut/Lazy-RedTeamer-Scripts.git
+[submodule "Lateral_movement/Java_deserial/java-deserialization-exploits"]
+	path = Lateral_movement/Java_deserial/java-deserialization-exploits
+	url = https://github.com/Coalfire-Research/java-deserialization-exploits.git
+[submodule "Initial_access/Payload_generation/SharpShooter"]
+	path = Initial_access/Payload_generation/SharpShooter
+	url = https://github.com/mdsecactivebreach/SharpShooter.git
