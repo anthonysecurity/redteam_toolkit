@@ -271,3 +271,12 @@
 [submodule "Lateral_movement/Internal-Monologue"]
 	path = Lateral_movement/Internal-Monologue
 	url = https://github.com/eladshamir/Internal-Monologue.git
+[submodule "Lateral_movement/Java_deserial/Java-Deserialization-Cheat-Sheet"]
+	path = Lateral_movement/Java_deserial/Java-Deserialization-Cheat-Sheet
+	url = https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet.git
+[submodule "Initial_access/Probable-Wordlists"]
+	path = Initial_access/Probable-Wordlists
+	url = https://github.com/berzerk0/Probable-Wordlists.git
+[submodule "Lateral_movement/DSInternals"]
+	path = Lateral_movement/DSInternals
+	url = https://github.com/MichaelGrafnetter/DSInternals.git
