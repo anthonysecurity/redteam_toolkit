@@ -280,3 +280,6 @@
 [submodule "Lateral_movement/DSInternals"]
 	path = Lateral_movement/DSInternals
 	url = https://github.com/MichaelGrafnetter/DSInternals.git
+[submodule "Lateral_movement/PowerSploitDev"]
+	path = Lateral_movement/PowerSploitDev
+	url = https://github.com/PowerShellMafia/PowerSploit.git
