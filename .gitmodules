@@ -283,3 +283,6 @@
 [submodule "Lateral_movement/PowerSploitDev"]
 	path = Lateral_movement/PowerSploitDev
 	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "Initial_access/UltimateAppLockerByPassList"]
+	path = Initial_access/UltimateAppLockerByPassList
+	url = https://github.com/api0cradle/UltimateAppLockerByPassList
