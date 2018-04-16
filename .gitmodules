@@ -286,3 +286,9 @@
 [submodule "Initial_access/UltimateAppLockerByPassList"]
 	path = Initial_access/UltimateAppLockerByPassList
 	url = https://github.com/api0cradle/UltimateAppLockerByPassList
+[submodule "Initial_access/Federated_services/CredKing"]
+	path = Initial_access/Federated_services/CredKing
+	url = https://github.com/ustayready/CredKing.git
+[submodule "Labs/Invoke-UserSimulator"]
+	path = Labs/Invoke-UserSimulator
+	url = https://github.com/ubeeri/Invoke-UserSimulator.git
