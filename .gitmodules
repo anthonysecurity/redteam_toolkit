@@ -292,3 +292,15 @@
 [submodule "Labs/Invoke-UserSimulator"]
 	path = Labs/Invoke-UserSimulator
 	url = https://github.com/ubeeri/Invoke-UserSimulator.git
+[submodule "ClickOnceGenerator"]
+	path = ClickOnceGenerator
+	url = https://github.com/Mr-Un1k0d3r/ClickOnceGenerator.git
+[submodule "Initial_access/Payload_generation/ClickOnceGenerator"]
+	path = Initial_access/Payload_generation/ClickOnceGenerator
+	url = https://github.com/Mr-Un1k0d3r/ClickOnceGenerator.git
+[submodule "Labs/Invoke-ADLabDeployer"]
+	path = Labs/Invoke-ADLabDeployer
+	url = https://github.com/outflanknl/Invoke-ADLabDeployer.git
+[submodule "Lateral_movement/ShellIntelScripts"]
+	path = Lateral_movement/ShellIntelScripts
+	url = https://github.com/Shellntel/scripts.git
