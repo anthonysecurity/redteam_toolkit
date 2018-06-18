@@ -127,9 +127,6 @@
 [submodule "Command_and_control/Cobalt_strike/Aggressor/bluescreenofjeff"]
 	path = Command_and_control/Cobalt_strike/Aggressor/bluescreenofjeff
 	url = https://github.com/bluscreenofjeff/AggressorScripts.git
-[submodule "Command_and_control/Cobalt_strike/Aggressor/invokethreatguy"]
-	path = Command_and_control/Cobalt_strike/Aggressor/invokethreatguy
-	url = https://github.com/invokethreatguy/aggressor_scripts_collection.git
 [submodule "Command_and_control/Cobalt_strike/Aggressor/persistence-aggressor-script"]
 	path = Command_and_control/Cobalt_strike/Aggressor/persistence-aggressor-script
 	url = https://github.com/ZonkSec/persistence-aggressor-script.git
