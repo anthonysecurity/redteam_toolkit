@@ -316,3 +316,6 @@
 [submodule "Reconnaissance/People/prowl"]
 	path = Reconnaissance/People/prowl
 	url = https://github.com/nettitude/prowl
+[submodule "Command_and_control/ideas/f468d34e81795239a8f8bac03646cf59"]
+	path = Command_and_control/ideas/f468d34e81795239a8f8bac03646cf59
+	url = https://gist.github.com/f468d34e81795239a8f8bac03646cf59.git
