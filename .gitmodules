@@ -211,9 +211,6 @@
 [submodule "Initial_access/Phishing/phishery"]
 	path = Initial_access/Phishing/phishery
 	url = https://github.com/ryhanson/phishery.git
-[submodule "Reconnaissance/Technology/slurp"]
-	path = Reconnaissance/Technology/slurp
-	url = https://github.com/bbb31/slurp.git
 [submodule "Command_and_control/WSC2"]
 	path = Command_and_control/WSC2
 	url = https://github.com/Arno0x/WSC2
@@ -301,3 +298,21 @@
 [submodule "Lateral_movement/ShellIntelScripts"]
 	path = Lateral_movement/ShellIntelScripts
 	url = https://github.com/Shellntel/scripts.git
+[submodule "Initial_access/PoSHBypass"]
+	path = Initial_access/PoSHBypass
+	url = https://github.com/davehardy20/PoSHBypass.git
+[submodule "Reconnaissance/Technology/goGetBucket"]
+	path = Reconnaissance/Technology/goGetBucket
+	url = https://github.com/glen-mac/goGetBucket.git
+[submodule "Lateral_movement/d8072d730b24fbae6ffe3aed8ca9c407"]
+	path = Lateral_movement/d8072d730b24fbae6ffe3aed8ca9c407
+	url = https://gist.github.com/d8072d730b24fbae6ffe3aed8ca9c407.git
+[submodule "Lateral_movement/credgrap_ie_edge"]
+	path = Lateral_movement/credgrap_ie_edge
+	url = https://github.com/HanseSecure/credgrap_ie_edge.git
+[submodule "Initial_access/aws_pwn"]
+	path = Initial_access/aws_pwn
+	url = https://github.com/dagrz/aws_pwn.git
+[submodule "Reconnaissance/People/prowl"]
+	path = Reconnaissance/People/prowl
+	url = https://github.com/nettitude/prowl

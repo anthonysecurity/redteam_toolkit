@@ -1,0 +1,1 @@
+public class Program { public static void Main(string[] args) { System.Reflection.Assembly.Load(new System.Net.WebClient().DownloadData(args[0])).GetTypes()[0].GetMethods()[0].Invoke(0, null); } }
