@@ -319,3 +319,15 @@
 [submodule "Command_and_control/ideas/f468d34e81795239a8f8bac03646cf59"]
 	path = Command_and_control/ideas/f468d34e81795239a8f8bac03646cf59
 	url = https://gist.github.com/f468d34e81795239a8f8bac03646cf59.git
+[submodule "Initial_access/31b2bbc5f129650c2a67bb40d14282ab"]
+	path = Initial_access/31b2bbc5f129650c2a67bb40d14282ab
+	url = https://gist.github.com/31b2bbc5f129650c2a67bb40d14282ab.git
+[submodule "Initial_access/example-hta"]
+	path = Initial_access/example-hta
+	url = https://gist.github.com/31b2bbc5f129650c2a67bb40d14282ab.git
+[submodule "Staging/htaccess"]
+	path = Staging/htaccess
+	url = https://gist.github.com/leoloobeek/bc82e68af027b2f876527406c04ae68d
+[submodule "Reconnaissance/People/LinkedInScrape-js"]
+	path = Reconnaissance/People/LinkedInScrape-js
+	url = https://gist.github.com/d9b7f380336b298c2b744de389f3c47d.git
