@@ -331,3 +331,66 @@
 [submodule "Reconnaissance/People/LinkedInScrape-js"]
 	path = Reconnaissance/People/LinkedInScrape-js
 	url = https://gist.github.com/d9b7f380336b298c2b744de389f3c47d.git
+[submodule "Staging/mkhtaccess_red"]
+	path = Staging/mkhtaccess_red
+	url = https://github.com/violentlydave/mkhtaccess_red.git
+[submodule "Reconnaissance/Frameworks/omnibus"]
+	path = Reconnaissance/Frameworks/omnibus
+	url = https://github.com/InQuest/omnibus.git
+[submodule "Initial_access/poc-iqy"]
+	path = Initial_access/poc-iqy
+	url = https://gist.github.com/Mr-Un1k0d3r/4ed3e3e0416fbbd1fd015119359eb961
+[submodule "Initial_access/poc-iqy-remote"]
+	path = Initial_access/poc-iqy-remote
+	url = https://gist.github.com/Mr-Un1k0d3r/abdcf16ebcef5842c7f79ee6686271e7
+[submodule "Initial_access/Targeting/office365userenum"]
+	path = Initial_access/Targeting/office365userenum
+	url = https://bitbucket.org/grimhacker/office365userenum.git
+[submodule "Lateral_movement/GhostPack/SharpDPAPI"]
+	path = Lateral_movement/GhostPack/SharpDPAPI
+	url = https://github.com/GhostPack/SharpDPAPI.git
+[submodule "Lateral_movement/GhostPack/Seatbelt"]
+	path = Lateral_movement/GhostPack/Seatbelt
+	url = https://github.com/GhostPack/Seatbelt.git
+[submodule "Lateral_movement/GhostPack/SharpUp"]
+	path = Lateral_movement/GhostPack/SharpUp
+	url = https://github.com/GhostPack/SharpUp.git
+[submodule "Lateral_movement/GhostPack/SharpDump"]
+	path = Lateral_movement/GhostPack/SharpDump
+	url = https://github.com/GhostPack/SharpDump.git
+[submodule "Lateral_movement/GhostPack/SafetyKatz"]
+	path = Lateral_movement/GhostPack/SafetyKatz
+	url = https://github.com/GhostPack/SafetyKatz.git
+[submodule "Lateral_movement/GhostPack/SharpWMI"]
+	path = Lateral_movement/GhostPack/SharpWMI
+	url = https://github.com/GhostPack/SharpWMI.git
+[submodule "Lateral_movement/GhostPack/SharpRoast"]
+	path = Lateral_movement/GhostPack/SharpRoast
+	url = https://github.com/GhostPack/SharpRoast.git
+[submodule "Labs/atomic-red-team"]
+	path = Labs/atomic-red-team
+	url = https://github.com/redcanaryco/atomic-red-team.git
+[submodule "Reconnaissance/Technology/spoofcheck"]
+	path = Reconnaissance/Technology/spoofcheck
+	url = https://github.com/BishopFox/spoofcheck
+[submodule "Initial_access/SigThief"]
+	path = Initial_access/SigThief
+	url = https://github.com/secretsquirrel/SigThief.git
+[submodule "Initial_access/metatwin"]
+	path = Initial_access/metatwin
+	url = https://github.com/threatexpress/metatwin
+[submodule "Initial_access/PSAmsi"]
+	path = Initial_access/PSAmsi
+	url = https://github.com/cobbr/PSAmsi
+[submodule "Initial_access/SpookFlare"]
+	path = Initial_access/SpookFlare
+	url = https://github.com/hlldz/SpookFlare.git
+[submodule "Initial_access/Phishing/PhishingPretexts"]
+	path = Initial_access/Phishing/PhishingPretexts
+	url = https://github.com/L4bF0x/PhishingPretexts
+[submodule "Command_and_control/merlin"]
+	path = Command_and_control/merlin
+	url = https://github.com/Ne0nd0g/merlin
+[submodule "Staging/DomainFrontDiscover"]
+	path = Staging/DomainFrontDiscover
+	url = https://github.com/peewpw/DomainFrontDiscover
