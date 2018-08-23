@@ -397,3 +397,6 @@
 [submodule "References/Red-Teaming-Toolkit"]
 	path = References/Red-Teaming-Toolkit
 	url = https://github.com/infosecn1nja/Red-Teaming-Toolkit
+[submodule "Reconnaissance/People/GatherContacts"]
+	path = Reconnaissance/People/GatherContacts
+	url = https://github.com/clr2of8/GatherContacts.git
